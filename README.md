@@ -6,7 +6,7 @@ Hola,I'm Sakthivel 👋
 
 🔭 Just a random guy who loves coding & tech and enthusiastic.
 
-📫 Find me tree,here it is https://linktr.ee/me_sakthivel
+📫 Find my tree,here it is https://linktr.ee/me_sakthivel
 <!--
 **me-sakthivel/me-sakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
