@@ -2,7 +2,7 @@ Hola,I'm Sakthivel 👋
 
 😄 People call me Endless.
 
-🌱 Currently appearing Computer Science & Engineering first year.
+🌱 Currently appearing Computer Science & Engineering Third year.
 
 🔭 Just a random guy who loves coding & tech and enthusiastic.
 
